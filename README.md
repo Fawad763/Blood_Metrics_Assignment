@@ -1,8 +1,6 @@
 # Blood_Metrics_Assignment
 
 
-# Blood_Metrics_Assignment
-
 
 # OpenAI Insight Backend
 
