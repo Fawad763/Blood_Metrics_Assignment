@@ -9,7 +9,7 @@ const OpenAIInsights = () => {
     const fetchInsights = async () => {
       try {
         const response = await axios.post(
-          "http://127.0.0.1:8000/api/insights",
+          "https://blood-metrics-assignment-la7k.vercel.app/api/insights",
           {
             data: {
               patient_1: {
