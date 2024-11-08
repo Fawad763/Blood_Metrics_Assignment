@@ -7,8 +7,8 @@ import config
 app = FastAPI()
 
 origins = [
-          "http://localhost:3000",
-          "https://blood-metrics-assignment.vercel.app"
+           "http://localhost:3000",
+           "https://blood-metrics-assignment.vercel.app"
           ]
 
 app.add_middleware(
